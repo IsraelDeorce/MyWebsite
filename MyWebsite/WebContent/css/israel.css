@@ -2,3 +2,15 @@
 	width: 256px !important;
 	border-radius: 50% !important;
 }
+
+#links a{
+	font-size: 15px;
+	display: inline-block;
+  	height: 25px !important;
+  	width: 25px !important;
+   	line-height: 21px !important;
+}
+
+#links {
+	align: center;
+}
